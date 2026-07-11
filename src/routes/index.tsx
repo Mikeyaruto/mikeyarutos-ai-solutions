@@ -690,6 +690,7 @@ function Contact() {
     { icon: Send, label: "Telegram", value: "@michaelpel", href: TELEGRAM },
     { icon: Twitter, label: "X / Twitter", value: "@mikeyaruto09", href: TWITTER },
     { icon: Briefcase, label: "Upwork", value: "michaele79", href: UPWORK },
+    { icon: Linkedin, label: "LinkedIn", value: "Michael Egbeneye", href: LINKEDIN },
   ];
   const sendMail = () => {
     const url = `mailto:${EMAIL}?subject=${encodeURIComponent(
