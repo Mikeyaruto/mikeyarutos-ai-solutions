@@ -281,7 +281,7 @@ function AiSection() {
               </span>
             ))}
           </div>
-         <div className="mt-8">
+          <div className="mt-8">
             <div
               className="badge-base LI-profile-badge"
               data-locale="en_US"
@@ -291,14 +291,13 @@ function AiSection() {
               data-vanity="michael-egbeneye-294623334"
               data-version="v1"
             >
-              
+              <a
                 className="badge-base__link LI-simple-link"
                 href="https://ng.linkedin.com/in/michael-egbeneye-294623334?trk=profile-badge"
               >
                 Michael Egbeneye
               </a>
             </div>
-          </div>
           </div>
         </div>
       </div>
