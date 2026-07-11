@@ -281,9 +281,8 @@ function AiSection() {
               </span>
             ))}
           </div>
-          <div className="mt-8">
+         <div className="mt-8">
             <div
-              <a
               className="badge-base LI-profile-badge"
               data-locale="en_US"
               data-size="medium"
@@ -299,6 +298,7 @@ function AiSection() {
                 Michael Egbeneye
               </a>
             </div>
+          </div>
           </div>
         </div>
       </div>
