@@ -281,6 +281,25 @@ function AiSection() {
               </span>
             ))}
           </div>
+          <div className="mt-8">
+            <div
+              <a
+              className="badge-base LI-profile-badge"
+              data-locale="en_US"
+              data-size="medium"
+              data-theme="dark"
+              data-type="VERTICAL"
+              data-vanity="michael-egbeneye-294623334"
+              data-version="v1"
+            >
+              
+                className="badge-base__link LI-simple-link"
+                href="https://ng.linkedin.com/in/michael-egbeneye-294623334?trk=profile-badge"
+              >
+                Michael Egbeneye
+              </a>
+            </div>
+          </div>
         </div>
       </div>
     </section>
