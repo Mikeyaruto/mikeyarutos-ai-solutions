@@ -26,6 +26,7 @@ import {
   Github,
   ChevronDown,
   CircleDot,
+  Linkedin,
 } from "lucide-react";
 import mikeyPhoto from "@/assets/mikey.jpg";
 import { useReveal } from "@/lib/use-reveal";
@@ -58,6 +59,7 @@ const WHATSAPP = "https://wa.me/2349073661738";
 const TELEGRAM = "https://t.me/michaelpel";
 const TWITTER = "https://x.com/mikeyaruto09";
 const UPWORK = "https://www.upwork.com/freelancers/michaele79";
+const LINKEDIN = "https://ng.linkedin.com/in/michael-egbeneye-294623334";
 
 const NAV = [
   { label: "Home", href: "#home" },
