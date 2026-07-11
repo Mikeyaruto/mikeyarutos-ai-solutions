@@ -786,6 +786,7 @@ function Footer() {
     { icon: Twitter, href: TWITTER, label: "Twitter" },
     { icon: Briefcase, href: UPWORK, label: "Upwork" },
     { icon: Linkedin, href: LINKEDIN, label: "LinkedIn" },
+    ];
   return (
     <footer className="border-t border-border py-14">
       <div className="container-page grid gap-10 md:grid-cols-2 lg:grid-cols-4">
